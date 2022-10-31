@@ -1,2 +1,1 @@
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poor+Story&pause=1000&color=F70000&background=66FF4900&center=true&vCenter=true&multiline=true&width=435&height=60&lines=Alex+Kientz%2C+Software+developper)](https://git.io/typing-svg)
