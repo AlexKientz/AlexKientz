@@ -20,7 +20,7 @@ Personnel : Création d'une librairie Forge pour la création d'interface custom
 
 Personnel : Mod de bateau customisable avec vos propres textures en BBMODEL
 
-![](https://geps.dev/progress/69) ( Distribution du mod sur Discord )
+![](https://geps.dev/progress/69) ( Projet en pause )
 
 Personnel : Système de sécuration d'utilisation de Mod/Plugin avec des licenses
 
