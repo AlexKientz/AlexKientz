@@ -2,12 +2,8 @@
 
 ## Projet en cours ( Minecraft )
 
- Asaria : Création du plugin de faction (Spigot)
+Asaria : Création du plugin de faction (Spigot)
  
-![](https://geps.dev/progress/90)
-
-VanityRP : Création de l'API (FvM)
-
 ![](https://geps.dev/progress/99)
 
 JediSky : Création du mods de gestion des rôles (1.16.5)
@@ -16,7 +12,7 @@ JediSky : Création du mods de gestion des rôles (1.16.5)
 
 Personnel : Création d'une librairie Forge pour la création d'interface custom simplifié
 
-![](https://geps.dev/progress/60) ( Publication Février 2023 )
+![](https://geps.dev/progress/60) ( Publication Mars 2023 )
 
 Personnel : Mod de bateau customisable avec vos propres textures en BBMODEL
 
