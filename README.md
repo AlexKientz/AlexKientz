@@ -12,7 +12,7 @@ JediSky : Création du mods de gestion des rôles (1.16.5)
 
 Personnel : Création d'une librairie Forge pour la création d'interface custom simplifié
 
-![](https://geps.dev/progress/60) ( Publication Mars 2023 )
+![](https://geps.dev/progress/60) ( Publication Juin 2023 )
 
 Personnel : Mod de bateau customisable avec vos propres textures en BBMODEL
 
